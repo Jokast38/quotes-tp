@@ -19,6 +19,8 @@ Ce projet est une application web complète permettant d'afficher des citations 
 git clone https://github.com/Jokast38/quotes-tp.git
 
 cd quotes-tp
+
+docker-compose up --build
 ```
 
 ---
