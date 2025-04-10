@@ -16,8 +16,8 @@ Ce projet est une application web complète permettant d'afficher des citations 
 
 ### **1. Cloner le projet**
 ```bash
-git clone https://github.com/username/repository-name.git
-# Remplacez 'https://github.com/username/repository-name.git' par l'URL de votre propre dépôt si nécessaire.
+git clone https://github.com/Jokast38/quotes-tp.git
+
 cd quotes-tp
 ```
 
